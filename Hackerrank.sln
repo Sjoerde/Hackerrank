@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gem elements", "Gem elements\Gem elements\Gem elements.csproj", "{20E83D63-6144-44CF-AA5E-C0A50C76CA11}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Halloween Party", "Halloween Party\Halloween Party\Halloween Party.csproj", "{E2FE07C4-5C6F-4B96-B8FC-BF96A338C9DD}"
@@ -20,6 +18,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup - Maximizing XOR", "Warming up - Maximizing XOR\Warmup - Maximizing XOR.csproj", "{0D82CE84-F448-45F7-9AD9-4805DDBCC4FC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup - Game of Thrones I", "Warmup - Game of Thrones I\Warmup - Game of Thrones I.csproj", "{4DEB31E4-A695-47C8-BEDC-4AF6E90FF5AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup - Sherlock and Squares", "Warmup - Sherlock and Squares\Warmup - Sherlock and Squares.csproj", "{9385FF56-50B6-4B6A-9D61-06A058A042AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +63,10 @@ Global
 		{4DEB31E4-A695-47C8-BEDC-4AF6E90FF5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DEB31E4-A695-47C8-BEDC-4AF6E90FF5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DEB31E4-A695-47C8-BEDC-4AF6E90FF5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9385FF56-50B6-4B6A-9D61-06A058A042AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9385FF56-50B6-4B6A-9D61-06A058A042AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9385FF56-50B6-4B6A-9D61-06A058A042AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9385FF56-50B6-4B6A-9D61-06A058A042AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
