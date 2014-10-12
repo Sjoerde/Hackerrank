@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utopian Tree", "Utopian Tre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACM ICPC Team", "ACM ICPC Team\ACM ICPC Team.csproj", "{43802712-7C72-49F5-A245-BF3F4F191932}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup - Maximizing XOR", "Warming up - Maximizing XOR\Warmup - Maximizing XOR.csproj", "{0D82CE84-F448-45F7-9AD9-4805DDBCC4FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup - Maximizing XOR", "Warmup - Maximizing XOR\Warmup - Maximizing XOR.csproj", "{0D82CE84-F448-45F7-9AD9-4805DDBCC4FC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup - Game of Thrones I", "Warmup - Game of Thrones I\Warmup - Game of Thrones I.csproj", "{4DEB31E4-A695-47C8-BEDC-4AF6E90FF5AE}"
 EndProject
