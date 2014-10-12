@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gem elements", "Gem elements\Gem elements\Gem elements.csproj", "{20E83D63-6144-44CF-AA5E-C0A50C76CA11}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Halloween Party", "Halloween Party\Halloween Party\Halloween Party.csproj", "{E2FE07C4-5C6F-4B96-B8FC-BF96A338C9DD}"
@@ -20,6 +22,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup - Game of Thrones I", "Warmup - Game of Thrones I\Warmup - Game of Thrones I.csproj", "{4DEB31E4-A695-47C8-BEDC-4AF6E90FF5AE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup - Sherlock and Squares", "Warmup - Sherlock and Squares\Warmup - Sherlock and Squares.csproj", "{9385FF56-50B6-4B6A-9D61-06A058A042AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup - Manasa and Stones", "Warmup - Manasa and Stones\Warmup - Manasa and Stones.csproj", "{0652086B-52F6-423F-ADC3-72ED68840EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup - Sherlock and the Beast", "Warmup - Sherlock and the Beast\Warmup - Sherlock and the Beast.csproj", "{E97382DF-755A-48F7-B06F-86F3731B8FCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +73,14 @@ Global
 		{9385FF56-50B6-4B6A-9D61-06A058A042AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9385FF56-50B6-4B6A-9D61-06A058A042AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9385FF56-50B6-4B6A-9D61-06A058A042AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0652086B-52F6-423F-ADC3-72ED68840EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0652086B-52F6-423F-ADC3-72ED68840EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0652086B-52F6-423F-ADC3-72ED68840EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0652086B-52F6-423F-ADC3-72ED68840EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E97382DF-755A-48F7-B06F-86F3731B8FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97382DF-755A-48F7-B06F-86F3731B8FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97382DF-755A-48F7-B06F-86F3731B8FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97382DF-755A-48F7-B06F-86F3731B8FCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
