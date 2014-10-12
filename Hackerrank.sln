@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cut the Sticks", "Cut the S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service lane", "Service lane\Service lane\Service lane.csproj", "{B3107EAF-CE19-4A61-8A4F-2F6D6395E74B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utopian Tree", "Utopian Tree\Utopian Tree\Utopian Tree.csproj", "{48A0DBBC-C5E5-43FC-839D-3EBD12D77E54}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utopian Tree", "Warmup - Utopian Tree\Utopian Tree\Warmup - Utopian Tree.csproj", "{48A0DBBC-C5E5-43FC-839D-3EBD12D77E54}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACM ICPC Team", "ACM ICPC Team\ACM ICPC Team.csproj", "{43802712-7C72-49F5-A245-BF3F4F191932}"
 EndProject
