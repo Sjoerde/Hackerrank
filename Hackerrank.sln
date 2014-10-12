@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2013 for Windows Desktop
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gem elements", "Gem elements\Gem elements\Gem elements.csproj", "{20E83D63-6144-44CF-AA5E-C0A50C76CA11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup - Gem elements", "Warmup - Gem elements\Gem elements\Warmup - Gem elements.csproj", "{20E83D63-6144-44CF-AA5E-C0A50C76CA11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Halloween Party", "Halloween Party\Halloween Party\Halloween Party.csproj", "{E2FE07C4-5C6F-4B96-B8FC-BF96A338C9DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup - Halloween Party", "Warmup - Halloween Party\Halloween Party\Warmup - Halloween Party.csproj", "{E2FE07C4-5C6F-4B96-B8FC-BF96A338C9DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoveLetter", "LoveLetter\LoveLetter\LoveLetter.csproj", "{F417B4CD-B581-4EA7-8964-850C12086F4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup - LoveLetter", "Warmup - LoveLetter\LoveLetter\Warmup - LoveLetter.csproj", "{F417B4CD-B581-4EA7-8964-850C12086F4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cut the Sticks", "Cut the Sticks\Cut the Sticks.csproj", "{CEBAF689-5162-4126-AFBA-16DC6C60CAA6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup - Cut the Sticks", "Warmup - Cut the Sticks\Warmup - Cut the Sticks.csproj", "{CEBAF689-5162-4126-AFBA-16DC6C60CAA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service lane", "Service lane\Service lane\Service lane.csproj", "{B3107EAF-CE19-4A61-8A4F-2F6D6395E74B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup - Service lane", "Warmup - Service lane\Service lane\Warmup - Service lane.csproj", "{B3107EAF-CE19-4A61-8A4F-2F6D6395E74B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utopian Tree", "Warmup - Utopian Tree\Utopian Tree\Warmup - Utopian Tree.csproj", "{48A0DBBC-C5E5-43FC-839D-3EBD12D77E54}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup - Utopian Tree", "Warmup - Utopian Tree\Utopian Tree\Warmup - Utopian Tree.csproj", "{48A0DBBC-C5E5-43FC-839D-3EBD12D77E54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACM ICPC Team", "ACM ICPC Team\ACM ICPC Team.csproj", "{43802712-7C72-49F5-A245-BF3F4F191932}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup - ACM ICPC Team", "Warmup - ACM ICPC Team\Warmup - ACM ICPC Team.csproj", "{43802712-7C72-49F5-A245-BF3F4F191932}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warmup - Maximizing XOR", "Warmup - Maximizing XOR\Warmup - Maximizing XOR.csproj", "{0D82CE84-F448-45F7-9AD9-4805DDBCC4FC}"
 EndProject
